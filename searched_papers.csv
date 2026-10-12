@@ -1,0 +1,81 @@
+Sr #,Title,Publication Year
+1,"Federated Learning With Residual Seasonality Adaptation (FedRSA): Robust Personalized Building Energy Forecasting in Heterogeneous, Data-Constrained Environments",2026
+2,Generalizable Thermal Dynamics Modeling via Personalized Federated Learning,2025
+3,A Review of IoT Network Infrastructure in Building Environment Transition From Environment-Centric to Occupant-Centric,2026
+4,Personalized Federated DARTS for Electricity Load Forecasting of Individual Buildings,2023
+5,Personalized federated learning for cross-building energy knowledge sharing: Cost-effective strategies and model architectures,2024
+6,Personalized hierarchical heterogeneous federated learning for thermal comfort prediction in smart buildings,2025
+7,AI-Powered Digital Twin Frameworks for Smart Grid Optimization and Real-Time Energy Management in Smart Buildings: A Survey,2025
+8,HiFEL-OCKT: Hierarchical federated edge learning with objective congruence and multi-level knowledge transfer for IoT ecosystems,2026
+9,Personalized federated learning for buildings energy consumption forecasting,2024
+10,WiSA: Privacy-enhanced WiFi-based activity intensity recognition in smart buildings using personalized federated learning,2024
+11,Federated machine learning for indoor thermal comfort: Real-time zone-based personalization and HVAC control,2025
+12,"Symbiotic Intelligence for Sustainable Cities: A Decadal Review of Generative AI, Ethical Algorithms, and Global South Innovations in Urban Green Space Research",2026
+13,Toward Efficient Federated Load Forecasting: Personalization Mechanisms and Their Impact,2025
+14,HAR Data Analysis: Unveiling the Potential of Federated CNN Models,2024
+15,Intelligent Retrieval and Secure Content Generation in Consumer Healthcare Electronics Using Quantum Blockchain and Edge-Fog-Cloud Intelligence,2026
+16,Decentralized intelligence in SBs: Federated LSTM-powered digital twins for sustainability,2025
+17,Edge Computing in Smart Homes,2020
+18,Building Trust in Smart TVs: AI-Enhanced Cybersecurity for User Privacy and Ethical Monetization,2025
+19,Smart-Home Privacy in the Era of Large Models: Challenges and Opportunities,2025
+20,Impact of Federated Learning on Smart Buildings,2021
+21,Personalized Federated Actor–Critic Learning for Joint Cost–Comfort Optimization in Energy Communities,2026
+22,"Unveiling IoT ecosystem security: A review of intelligent IDS, trends, challenges, and future directions",2025
+23,Comparative Analysis of Data-Driven Algorithms for Building Energy Planning via Federated Learning,2023
+24,Federated Learning for Unsupervised Anomaly Detection in ADLs of Elderly in Single-resident Smart Homes,2024
+25,Efficient and Accurate Peer-to-Peer Training of Machine Learning Based Home Thermal Models,2023
+26,Androids: Android-Based Intrusion Detection System Using Federated Learning,2025
+27,Personalized Federated Deep Reinforcement Learning for Smart Home Energy Management,2025
+28,Privacy-preserving energy optimization via multi-stage federated learning for micro-moment recommendations,2026
+29,Enhancing Privacy in Generative AI-Enabled Consumer Electronics Using Homomorphic Encryption and Federated Learning,2025
+30,Mutual Knowledge Distillation-Based Personalized Federated Learning for Smart Edge Computing,2025
+31,Privacy-preserving occupancy prediction in multi-zone buildings based on adaptive personalized federated learning,2026
+32,Federated Transfer Learning for cold-start building energy prediction under data scarcity and privacy constraints,2026
+33,A Systematic Review of Building Energy Management and Optimization Using the Artificial Intelligence of Things (AIoT),2026
+34,Human-centric demand-side management for scalable energy flexibility in smart buildings,2026
+35,IoT–DRL smart building control architecture,2026
+36,Thermal comfort prediction with limited local data utilizing heterogeneous external sources via federated learning,2026
+37,Human-Centric Based Energy and Comfort Optimization in Cognitive Buildings: A Review,2024
+38,Personalized Federated Learning With State-Adaptive IoT Device Scheduling in Mobile-Edge Computing,2025
+39,Poster Abstract: Residential Energy Management System Using Personalized Federated Deep Reinforcement learning,2022
+40,Hierarchical Federated Reinforcement Learning for Privacy-Preserving HVac Optimization in Building Clusters,2026
+41,The Internet of Federated Things (IoFT),2021
+42,Federated Digital Twin Construction via Distributed Sensing: A Game-Theoretic Online Optimization With Overlapping Coalitions,2025
+43,A Federated Transfer Learning Framework for Lithium-Ion Battery State of Health Estimation Based on Fast-Charging Segments,2025
+44,Personalized Federated Hypernetworks for Multi-Task Reinforcement Learning in Microgrid Energy Demand Response,2023
+45,Personalized Federated Transfer Learning for Building Energy Forecasting via Model Ensemble with Multi-Level Masking in Heterogeneous Sensing Environment,2025
+46,Energy- and AoI-Aware Hierarchical Personalized Federated Learning for Distributed Edge Systems With Selective LLM Module Exchange,2026
+47,Energy-Aware Edge Association for Cluster-Based Personalized Federated Learning,2022
+48,Energy-Aware Edge Association for Cluster-Based Personalized Federated Learning,2022
+49,A Federated Graph–Physics-Informed Digital Twin Framework for Sustainable Smart Building Energy Management Supporting SDG-7 and SDG-11,2026
+50,Environment-Aware Personalized Heterogeneous Federated Distillation for Dual-Layer Blockchain-Enabled Internet of Vehicles,2025
+51,Contribution-Aware Personalized Federated Learning for Consumer Electronics Products Trustworthy Recommendation,2025
+52,Fine-Grained Privacy-Aware Parameter Coaching for Personalized Federated Learning,2025
+53,Personalized Federated Learning With Model-Contrastive Learning for Multi-Modal User Modeling in Human-Centric Metaverse,2024
+54,Employing federated learning for training autonomous HVAC systems,2025
+55,Leveraging distributed AI for multi-occupancy prediction in Cognitive Buildings,2024
+56,Lightweight Federated Learning for Secure and GDPR-Compliant Elderly Care: Lightweight Federated Learning and Cross-Modal Game Architecture,2025
+57,FedMeet: Personalized Federated Multi-Sensor Fusion for Privacy-Preserving Human Activity Recognition,2026
+58,Driving Sustainable Smart Buildings through Federated Intelligence and Digital Twin Integration,2026
+59,Privacy-preserving energy analytics in smart offices via container-based Federated Learning,2025
+60,Federated learning for sustainable IoT appliance load monitoring at the edge devices,2025
+61,Privacy Preserving Federated Learning for Energy Disaggregation of Smart Homes,2025
+62,A personalized federated meta-learning approach for distributed load forecasting of buildings,2026
+63,Personalized Short-Term Load Forecasting for Building Clusters Based on Federated Learning and Transformer Model,2024
+64,FedHome: Cloud-Edge Based Personalized Federated Learning for In-Home Health Monitoring,2020
+65,An Efficient Federated Learning Approach for Dynamic User Personalization in Smart Digital Cities Under Data Heterogeneity,2025
+66,An electrical load measurements dataset of United Kingdom households from a two-year longitudinal study,2017
+67,A Federated Graph--Physics-Informed Digital Twin Framework for Sustainable Smart Building Energy Management Supporting SDG-7 and SDG-11,2026
+68,The Chinese thermal comfort dataset,2023
+69,Longitudinal dataset of human-building interactions in US offices,2019
+70,Personalized Federated Actor Critic Learning for Joint Cost Comfort Optimization in Energy Communities,2026
+71,A three-year dataset supporting research on building energy management and occupancy analytics,2022
+72,FedAli-PHAR: personalized federated learning with optimal transport-based prototype alignment for robust human activity recognition in pervasive computing,2026
+73,pFedRadar: Personalized Federated Learning for Radar-Based Human Activity Recognition,2026
+74,Multi-Task Personalized Federated Learning for Tailored Services in Mobile Edge Computing,2026
+75,Secure and adaptive authentication in fog-assisted smart homes using personalized federated learning,2025
+76,Adaptive Federated Learning Algorithm for Privacy-Preserving Personalized Learning in E-Learning Systems with Dynamic User Interactions,2026
+77,Metadata and Image Features Co-Aware Personalized Federated Learning for Smart Healthcare,2023
+78,CAP-FL: A Context-Aware Personalized Federated Learning Framework for Next-Word Prediction,2026
+79,Towards personalized federated learning,2022
+80,A review of federated learning methods in heterogeneous scenarios,2024

@@ -3,14 +3,22 @@
 
 `#PersonalizedFederatedLearning` `#FederatedLearning` `#SmartBuildings` `#HumanCentricAI` `#OccupantCentric` `#PrivacyPreservingLearning` `#EdgeIntelligence` `#SystematicReview` `#PRISMA`
 
+
 ## Authors
 
-**Sundas Sarwar**, **Makhmoor Fiza Murk**, **Daniela Annunziata**, **Francesco Piccialli**\*
+**Sundas Sarwar**<sup>1</sup>,
+**Makhmoor Fiza Murk**<sup>1</sup>,
+**Daniela Annunziata**<sup>1</sup>,
+**Zia Ur Rehman**<sup>2</sup>,
+**Francesco Piccialli**<sup>1,*</sup>
 
-University of Naples Federico II, Department of Mathematics and Applications "R. Caccioppoli",
-M.O.D.A.L. (Mathematical mOdelling and Data AnaLysis) research group, Naples, Italy
+### Affiliations
 
-\* Corresponding author: francesco.piccialli@unina.it
+<sup>1</sup> University of Naples Federico II, Department of Mathematics and Applications "R. Caccioppoli", M.O.D.A.L. (Mathematical mOdelling and Data AnaLysis) Research Group, Naples, Italy.
+
+<sup>2</sup> Institute for High Performance Computing and Networking (ICAR), National Research Council (CNR), Rende, 87036, Italy.
+
+**\* Corresponding author:** [Francesco Piccialli](mailto:francesco.piccialli@unina.it)
 
 ## About this repository
 

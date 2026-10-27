@@ -71,11 +71,11 @@ The 41 included studies are grouped into five human-centric smart-building domai
 
 | Domain | Share of studies |
 |---|---|
-| Energy Intelligence | 31.0% |
-| Thermal Comfort & Indoor Environmental Quality | 23.8% |
-| Occupancy & Human Behavior Analytics | 23.8% |
-| Edge Intelligence & IoT Infrastructure | 14.3% |
-| Privacy-Preserving Personalization | 7.1% |
+| Energy Intelligence | 31.7% |
+| Thermal Comfort & Indoor Environmental Quality | 24.4% |
+| Occupancy & Human Behavior Analytics | 24.4% |
+| Edge Intelligence & IoT Infrastructure | 14.6% |
+| Privacy-Preserving Personalization | 4.9% |
 
 ### Publication trend
 

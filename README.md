@@ -18,7 +18,7 @@ This repository accompanies our systematic review of Federated Learning (FL) and
 
 ## Abstract
 
-Personalized Federated Learning (PFL) is emerging as a promising paradigm for human-centric smart buildings, where collaborative intelligence must accommodate diverse occupant preferences, behaviors, building conditions, and resource capabilities while preserving data privacy. Although Federated Learning (FL) enables collaborative model training without centralizing raw data, a single global model may struggle with the statistical, system, and temporal heterogeneity inherent in real-world building environments. PFL addresses this limitation by adapting collaboratively learned knowledge to heterogeneous occupants, buildings, zones, and devices. However, personalization at the building or device level does not necessarily imply human-centric personalization, which requires explicit consideration of occupant preferences, comfort, behavior, feedback, or related human outcomes. This survey systematically analyzes 42 studies and develops an application-oriented taxonomy mapping FL and PFL approaches across five smart-building domains. We examine personalization targets and strategies, datasets, evaluation metrics, and benchmarking protocols, with particular attention to realism, reproducibility, and cross-study comparability. We further analyze how resource-constrained edge and IoT infrastructures affect communication, computation, latency, and practical PFL deployment, as well as the trade-off between personalization and privacy. The analysis identifies persistent challenges related to data scarcity, heterogeneity, cold-start adaptation, scalability, privacy, fairness, and explainability, and reveals an important distinction between occupant-centric personalization and approaches that primarily adapt models to buildings, zones, or devices. Based on these findings, we outline future directions toward data-efficient and continual personalization, resource-efficient edge intelligence, trustworthy privacy-preserving PFL, standardized real-world evaluation, and digital-twin-assisted personalized intelligence. Overall, this survey provides a structured foundation for advancing adaptive, privacy-aware, and genuinely occupant-centric intelligence in future smart buildings.
+Personalized Federated Learning (PFL) is emerging as a promising paradigm for human-centric smart buildings, where collaborative intelligence must accommodate diverse occupant preferences, behaviors, building conditions, and resource capabilities while preserving data privacy. Although Federated Learning (FL) enables collaborative model training without centralizing raw data, a single global model may struggle with the statistical, system, and temporal heterogeneity inherent in real-world building environments. PFL addresses this limitation by adapting collaboratively learned knowledge to heterogeneous occupants, buildings, zones, and devices. However, personalization at the building or device level does not necessarily imply human-centric personalization, which requires explicit consideration of occupant preferences, comfort, behavior, feedback, or related human outcomes. This survey systematically analyzes 41 studies and develops an application-oriented taxonomy mapping FL and PFL approaches across five smart-building domains. We examine personalization targets and strategies, datasets, evaluation metrics, and benchmarking protocols, with particular attention to realism, reproducibility, and cross-study comparability. We further analyze how resource-constrained edge and IoT infrastructures affect communication, computation, latency, and practical PFL deployment, as well as the trade-off between personalization and privacy. The analysis identifies persistent challenges related to data scarcity, heterogeneity, cold-start adaptation, scalability, privacy, fairness, and explainability, and reveals an important distinction between occupant-centric personalization and approaches that primarily adapt models to buildings, zones, or devices. Based on these findings, we outline future directions toward data-efficient and continual personalization, resource-efficient edge intelligence, trustworthy privacy-preserving PFL, standardized real-world evaluation, and digital-twin-assisted personalized intelligence. Overall, this survey provides a structured foundation for advancing adaptive, privacy-aware, and genuinely occupant-centric intelligence in future smart buildings.
 
 ## Research questions
 
@@ -32,7 +32,7 @@ Personalized Federated Learning (PFL) is emerging as a promising paradigm for hu
 | File | Description |
 |---|---|
 | `searched_papers.xlsx` | The 58 unique records retrieved from the five databases across both search rounds, after duplicate removal, which entered title and abstract screening |
-| `selected_papers.xlsx` | The 42 primary studies included in the review after screening and full-text assessment |
+| `selected_papers.xlsx` | The 41 primary studies included in the review after screening and full-text assessment |
 | `PRISMA.png` | PRISMA flow diagram of the study-selection process |
 
 Each spreadsheet lists the serial number, paper title, and publication year.
@@ -67,7 +67,7 @@ The records from both search rounds (80 in total) were pooled and deduplicated b
 
 ## Application domains
 
-The 42 included studies are grouped into five human-centric smart-building domains:
+The 41 included studies are grouped into five human-centric smart-building domains:
 
 | Domain | Share of studies |
 |---|---|
@@ -81,7 +81,7 @@ The 42 included studies are grouped into five human-centric smart-building domai
 
 | Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|---|---|---|
-| Included studies | 2 | 1 | 1 | 1 | 5 | 6 | 14 | 12 |
+| Included studies | 2 | 1 | 1 | 1 | 5 | 6 | 13 | 12 |
 
 Research activity has grown markedly since 2023, with most included studies published in 2025 and 2026.
 

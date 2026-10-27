@@ -23,7 +23,8 @@ Personalized Federated Learning (PFL) is emerging as a promising paradigm for hu
 ## Research questions
 
 - **RQ1:** How are existing PFL paradigms and personalization strategies applied across human-centric smart-building applications?
-- **RQ2:** Which datasets, experimental settings, and evaluation metrics are used to assess FL and PFL in smart buildings, and what limitations in data realism, reproducibility, and cross-study comparability characterize current evaluation practices?
+- **RQ2:** Which datasets, experimental settings, and evaluation metrics are used to assess FL and PFL in smart buildings, and what limitations
+    in data realism, reproducibility, and cross-study comparability characterize current evaluation practices?
 - **RQ3:** How do resource-constrained edge environments and heterogeneous IoT infrastructures affect the communication, computation, memory, latency, and scalability of PFL deployment in smart buildings?
 - **RQ4:** What trade-offs arise between personalization performance and privacy protection in distributed smart-building systems, and how should these trade-offs inform future privacy-preserving PFL research?
 
